@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChetanSalvi7/Future-Generali.github.io/static/css/main.1ac56908.css",
+    "main.js": "/ChetanSalvi7/Future-Generali.github.io/static/js/main.913288ff.js",
+    "index.html": "/ChetanSalvi7/Future-Generali.github.io/index.html",
+    "main.1ac56908.css.map": "/ChetanSalvi7/Future-Generali.github.io/static/css/main.1ac56908.css.map",
+    "main.913288ff.js.map": "/ChetanSalvi7/Future-Generali.github.io/static/js/main.913288ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac56908.css",
+    "static/js/main.913288ff.js"
+  ]
+}
